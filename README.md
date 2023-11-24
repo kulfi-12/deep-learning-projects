@@ -1,8 +1,7 @@
 # XOR CLASSIFICATION PROBLEM
 
 **Problem Overview:**
-
-The XOR problem is a classic in neural network research. It involves predicting the output of an XOR gate, where the output is 1 only when one input is 1 and the other is 0. This problem can't be solved with a single-layer network due to its non-linearity, highlighting the need for multi-layered networks.
+The XOR (exclusive or) problem is a binary classification problem where the task is to learn a decision boundary that separates two classes of data. The challenge arises because XOR is not linearly separable, meaning a single straight line cannot accurately divide the two classes. This problem is often used to illustrate the limitations of simple linear models and the need for more complex models, such as neural networks, to solve non-linear classification tasks.
 
 **Truth Table :**
 
