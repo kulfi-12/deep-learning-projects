@@ -1,4 +1,4 @@
-# deep-learning-projects
+# XOR CLASSIFICATION PROBLEM
 
 **Problem Overview:**
 
